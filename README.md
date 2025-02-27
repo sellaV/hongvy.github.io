@@ -6,9 +6,9 @@ Student: Lương Hồng Vỹ
 Content: Get familiar with AI  
 # App-inventor
 ## Danh sách thư mục
-[Chat Bot](Chat%20Bot/)
-[Image Bot](Image%20Bot/)
-[Mood Tracker](Mood%20Tracker/)
-[Predictions](Predictions/)
-[Visualizing Climate Data](Visualizing%20Climate%20Data/)
-[Voice Calculator](Voice%20Calculator/)
+[Chat Bot](Chat%20Bot/)  
+[Image Bot](Image%20Bot/)  
+[Mood Tracker](Mood%20Tracker/)  
+[Predictions](Predictions/)  
+[Visualizing Climate Data](Visualizing%20Climate%20Data/)  
+[Voice Calculator](Voice%20Calculator/)  
